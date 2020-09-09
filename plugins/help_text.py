@@ -74,7 +74,7 @@ async def start(bot, update):
                     InlineKeyboardButton('Feedback', url='https://t.me/MrRobot222')
                 ],
                 [
-                    InlineKeyboardButton('Other Bots', url='https://t.me/jkbotupdates
+                    InlineKeyboardButton('Other Bots', url='https://t.me/jkbotupdates'
                                          '),
                     InlineKeyboardButton('Source', url='https://github.com/MrRobot222/RenameBot')
                 ]
