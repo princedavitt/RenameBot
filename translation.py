@@ -1,21 +1,21 @@
 class Translation(object):
     START_TEXT = """ <b> Hi {} , I'm A Simple File Renamer+File To Video Converter Bot With Permanent Thumbnail support!💯</b> \n
 
-<b>Bot Maintained By: @Mai_bOTs</b> \n
+<b>Bot Maintained By: @MrRobotFsec</b> \n
 <b>Do /help for more...</b> \n
 """
 
     RENAME_403_ERR = "What Are You Doing? Bruuh!!"
     BANNED_USER_TEXT = "Sorry!! But Mai Owner As Banned You From Using This Service. That Means You Can't Run Meh Now! \n \n Contact : @MrRobotFsec For more Details.. " 
     ABS_TEXT = "What Are You Trying To Do,Mate?"
-    UPGRADE_TEXT = "CONTACT @No_OnE_Kn0wS_Me "
-    DOWNLOAD_START = "<b>Downloading To My server !! pls Wait</b>"
-    UPLOAD_START = "<b>Downloading Completed Now I'm Uploading Into TG</b>"
+    UPGRADE_TEXT = "CONTACT @MrRobotFsec "
+    DOWNLOAD_START = "<b>Downloading your file into my server, So Fucking please be calm.</b>"
+    UPLOAD_START = "<b>I have finished downloading file, but fucking wait untill upload the file to Telegram</b>"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It?"
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me JOin > @Mai_bOTs  ❤️**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
     NOT_AUTH_USER_TEXT = "CONTACT @No_OnE_Kn0wS_Me "
-    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @No_OnE_Kn0wS_Me "
+    NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @MrRobotFsec "
     SAVED_CUSTOM_THUMB_NAIL = "<b>thumbnail Saved ✅ This Is Permanent Until</b> /deletethumbnail ❤"
     DEL_ETED_CUSTOM_THUMB_NAIL = "thumbnail cleared succesfully🤦"
     FF_MPEG_DEL_ETED_CUSTOM_MEDIA = "Media cleared succesfully."
@@ -31,7 +31,7 @@ class Translation(object):
     HELP_USER = """Ohh You Want Help?? 😅
     
 1.🔹 <b>Send me any Telegram File.</b> \n
-2.🔹 <b>Reply to that message with /rename New file name.extnsion</b> \n
+2.🔹 <b>Reply to that message with /rename New file name.extension</b> \n
 3.🔹 <b> Send A Photo to make it as permanent Thumbnail</b> \n
-4.🔹 <b> I Can Also Convert Files Into Video through /c2v Command </b>   \n \n <b>Made With Love By: @mai_boTs</b>"""
+4.🔹 <b> I Can Also Convert Files Into Video through /c2v Command </b>   \n \n <b>Made With Love By: @MrRobotFsec</b>"""
 
