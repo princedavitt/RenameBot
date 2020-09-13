@@ -12,7 +12,7 @@ class Translation(object):
     DOWNLOAD_START = "<b>Downloading your file into my server, So Fucking please be calm.</b>"
     UPLOAD_START = "<b>I have finished downloading file, but fucking wait untill upload the file to Telegram</b>"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry WTF Do You Think! I'll Upload It?"
-    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me JOin > @Mai_bOTs  ❤️**"
+    AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me JOin > @jkbotupdates  ❤️**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds"
     NOT_AUTH_USER_TEXT = "CONTACT @No_OnE_Kn0wS_Me "
     NOT_AUTH_USER_TEXT_FILE_SIZE = "IF You Got This Message You Should Contact @MrRobotFsec "
